@@ -1,0 +1,36 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+/* navbar */
+nav .t{
+    color: white;
+    background-color: #458FF6;
+    padding: 5px 10px;
+
+}
+
+/* Jumbotron */
+.jumbotron{
+    margin-top: 84px;
+}
+
+.jumbotron-h1{
+    margin-top: 100px;
+}
+
+
+/* MAIN ONE */
+.main-1{
+    margin-top:100px;
+}
+
+.main-1empty{
+    border-bottom: solid;
+    width: 20px;
+    margin: auto;
+}
+.main-1p{
+    color: #7D7987;
+
+}
